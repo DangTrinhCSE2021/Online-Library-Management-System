@@ -1,0 +1,11 @@
+Development:
+Frontend:
+- React.js
+Backend Technologies:
+- Typescript
+- Database: MongoDb
+
+
+
+
+
